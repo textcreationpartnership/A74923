@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An eccho to the plea for limited monarchy &amp;c. Written and presented to his Excellency, the Lord Generall Monck. In January last, and now re-asserted, by the same author.</title>
+            <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74923</idno>
+            <idno type="STC">Thomason E765_4</idno>
+            <idno type="EEBO-CITATION">50796676</idno>
+            <idno type="OCLC">ocm 50796676</idno>
+            <idno type="VID">167150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167150)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 117:E765[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An eccho to the plea for limited monarchy &amp;c. Written and presented to his Excellency, the Lord Generall Monck. In January last, and now re-asserted, by the same author.</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for William Shears, and are to be sold at his shop at the signe of the Bible, in Bedford street near Covent-Garden,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A plea for limited monarchy" attributed to Sir Roger L'Estrange by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167150:1" rendition="simple:additions"/>
+            <p>
+               <hi>An Eccho</hi> to the <hi>Plea</hi> for limited MONARCHY &amp;c. Written and preſented to his Excellen<g ref="char:EOLhyphen"/>cy, the Lord Generall MONCK. In <hi>January</hi> laſt, and now re-aſſerted, by the ſame Author.</p>
+            <p>LONDON, <hi>Printed by</hi> T. M. <hi>for</hi> William Shears; <hi>and are to be ſold at his Shop at the ſigne of the Bible, in</hi> Bedford <hi>ſtreet near</hi> Covent-Garden, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:167150:2"/>
+            <pb n="1" facs="tcp:167150:2"/>
+            <head>An Eccho to the Plea for limited Monar<g ref="char:EOLhyphen"/>chy, <hi>&amp;c.</hi> Written and preſented to his Excellency, the Lord Generall <hi>Monck,</hi> in <hi>Ianuary</hi> laſt, and now re-aſſerted, by the ſame Author.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>WHen I preſented my humble Addreſs to your Ex<g ref="char:EOLhyphen"/>cellency, in defence of the Monarchy of Eng<g ref="char:EOLhyphen"/>land, Though we had lively hopes, grounded chiefly on the preſumption of your Vertue and prudence, yet had we no certain proſpect, That your Ex<g ref="char:EOLhyphen"/>cellency would ſo generouſly promote, or could ſo fortunately effect, this bleſſed and wonderfull revolution; It hath ſince plea<g ref="char:EOLhyphen"/>ſed God to uſe you as his glorious Inſtrument, in redeeming your Country from the Captivity, and Chaos, of a monſtrous Oligarchy; and reſtoring it to the Beauty and Freedome of a lawfull Government; under our naturall, Prince: Wherein, as your Excellency hath the principall merit, the whole Nation the Benefit and Triumph; So have I, my Lord, this ſatisfaction, that all my aſſertions are already verified by ſuch publick evi<g ref="char:EOLhyphen"/>dence, as malice it ſelf cannot contradict.</p>
+            <p>My firſt Poſition was, That the Laws of England, being of Monarchicall conſtitution, calculated, as it were, to that meridi<g ref="char:EOLhyphen"/>an, would not eaſily conforme to the manners of <hi>Greece;</hi> or learne the language of <hi>
+                  <g ref="char:V">Ʋ</g>topia;</hi> and moſt remarkable, indeed, it is, that whereas the whole body of our Law was lately out of Joynt, like one tormented on the Wrack by Tyrants, to extort from him confeſſions againſt himſelf, and our Apoſtate Law<g ref="char:EOLhyphen"/>yers forced to double their files of Impudence, that, like goodly Oracles, they might pronounce, as they were prompted; our
+<pb n="2" facs="tcp:167150:3"/>Laws are ſuddenly in frame, our Lawyers have ſoon recovered their Mother tougue, and forgotten that beggerly and Gypſy Dialect, which Committees had taught them; Our Juries are reſ<g ref="char:EOLhyphen"/>cued from y<hi rend="sup">e</hi> terrour of thoſe Dilemmas, which daily propound<g ref="char:EOLhyphen"/>ed to them ruine, or perjury; our Judges are confident of their Authority, and fear not, leaſt they murther, whom they con<g ref="char:EOLhyphen"/>demne; We are entirely poſſeſt of our birthrights, not the foot<g ref="char:EOLhyphen"/>ſteps of violence remain amongſt us, under a Government ſo dear, and gentle, as if it were not national but paternall, and our daily amendments are as viſible, as thoſe of young men, after the Criſis of a feavour: ſurely the difference of our tem<g ref="char:EOLhyphen"/>per, and complexion, ſince <hi>February</hi> laſt, evinces that the Phy<g ref="char:EOLhyphen"/>ſick, we took this ſpring, was very proper, and kindly.</p>
+            <p>That Providence had ſingularly adapted our Government to our Genius, was my next aſſertion; For which I alledged, That <hi>Engliſh</hi> men having naturally an equall ſence of honour and freedom, do no leſſe contemne the Mechanick policies of a re<g ref="char:EOLhyphen"/>publick, then diſdain the Inſolencies of a Tyrant; and that the late Protectours, (as odious and ſcandalous, as they were) found entertainment too good for ſuch uſurpers, not upon their own account, but for that their Empire was in it ſelf, a kind of Ba<g ref="char:EOLhyphen"/>ſtard Monarchy, and an approach to the legitimate: Let our publick and unaffected Triumphs, the ſhouts and Ecchoes, which filled the Aire, at his Majeſties appearance; let our mu<g ref="char:EOLhyphen"/>tuall embraces in the ſtreets, as perſons meeting at home, after their long and various exiles; Let the brightneſſe of innume<g ref="char:EOLhyphen"/>rable ſaces, which are now come forth their Dongeons, like juſt and happy ſouls with their renewed and refined Bodies, proclaime the general reſurrection of our State, the re-integra<g ref="char:EOLhyphen"/>tion of our being, and conſummation of our worldly bliſſe, and let it be confeſſed; that our latter motions were as voluntary, and naturall, as the former were violent, and Eccentrick.</p>
+            <p>I Obſerved, That our ancient policybeſt agreed with our ſober intereſt. Now the intereſt of a people conſiſts in ſecurity and proſperity; our ſecurity, of late years, hath been no other than theirs, who live in a ruinous houſe, and an inffected ayre, or
+<pb n="3" facs="tcp:167150:3"/>border upon the <hi>Turks</hi> and <hi>Tartars;</hi> What fatall Comets! What furious changes have we ſeen! And in how ſhort a time! Wherein the City was manifeſtly threatned with ſacks, the Countrey with Maſſacres, The Nation toſſed like a Tennis-ball, betwixt the mutiny of Souldiers, and ſpleen of factions; Beſide the danger of foraigne enemies, hovering over us, and gather<g ref="char:EOLhyphen"/>ing like Clouds, which (as terrible as now they ſeem,) were the beſt relief, we could reaſonably then expect: How his Majeſties peaceable returne hath redeemed and preſerved us, (as in rea<g ref="char:EOLhyphen"/>ſon, it only could,) none I truſt, wants either ſenſe to diſcerne or religion to acknowledge: We thrived like Bankrouts, or Prodigals, who having conſumed their eſtates with luxury, ſeek to repaire them by Projects; our very ſtreets were priſons, and the whole Nation outlaw'd both for debt and felony; our trade, (the Nutriment of the body Politick) ſcarce yielded us a preſent ſubſiſtence, and that with ſuch a manifeſt Declination, as ten<g ref="char:EOLhyphen"/>ded to ſpeedy famine: What a Jubile to our Captivity! What Alms to our neceſſity! what omens of future happineſſe hath his Majeſty already, brought us! It appears, indeed, we were ſick of the Kings evill, and he hath cured us, meerly with his touch.</p>
+            <p>And whereas our late Empyricks have, (with their wonted arrogance, and an impoſture anſwerable to their treachery in all that they undertook) long entertain'd us in fools Paradiſe, and fed our credulity with mountainous hopes, till even bread be<g ref="char:EOLhyphen"/>gan to faile us; Fondly ſurmiſing, that our wealth and wellfare conſiſted in the forme of a Republick; if our late wofull, and former happy experiences did not enough confute them; I would examine Firſt, Whether were likelier to inrich us, that Government, which ſettled our diſtractions, diminiſhed our burthens, confirmed our Charters, and eſtabliſhed peace with all our neighbours, Eſpecially thoſe, with whom we principally hold commerce, or that, which, to infinite obſtractions and diſ<g ref="char:EOLunhyphen"/>couragements at home, added our perpetual moleſtation and Ruine abroad by letters of <hi>Mart,</hi> the juſt reward of our rebelli<g ref="char:EOLhyphen"/>on; Next, Whether (waving projects,) they can reaſonably propound to the Merchant, any ſolid advantage in a Free-ſtate,
+<pb n="4" facs="tcp:167150:4"/>which may not as well be admitted in our Monarchy, Where the Prince, (beſides his ſecurity and ſatisfaction to governe a flouriſhing people,) hath an immediate dependance on our Trade, in the maine of his revenüe, and may therefore be pre<g ref="char:EOLhyphen"/>ſumed to advance, but never to obſtruct it.</p>
+            <p>My maine Propoſition was; That the Engliſh Monarchy did eminently include all the benefits propounded in a Common<g ref="char:EOLhyphen"/>wealth, and had the luſter of a Diadem with the ſubſtance of a Free ſtate; Neither I ſuppoſe hath experience herein been wan<g ref="char:EOLhyphen"/>ting to my reaſons; Already have we ſeen an Election of our Deputies, as popular, as in the freeſt of States, (unleſſe perhaps, the Royall party ſhould complaine of Qualifications, for cer<g ref="char:EOLhyphen"/>tainly none other ought, or can,) by this convention hath our KING been remitted to his Regall power, with ſuch a ſuffrage That being convinced either in the clearneſs of his title, the greatneſſe of his merit, or neceſſity of the Act all concurred, like ſtreames to the Ocean; Already have we ſeen his Majeſty, (waving his advantage in a more equall choyce, nay ſuſpen<g ref="char:EOLhyphen"/>ding the exerciſe of all his Prerogatives,) confirme, (or rather conſtitute) this convention, and make them Arbitratours of his deareſt concernments; we have ſeen him hitherto, I am ſure; as little interpoſing in our Laws, or controuling the Par<g ref="char:EOLhyphen"/>liament, in the debate of his intereſts, as if he had no negative, and were indeed, that Cypher or chief Magiſtrate, which ſome have inſolently deſigned him; If by conſenting, he wound us not through his owne ſide, There is little fear, that he will pre<g ref="char:EOLhyphen"/>judice us by Refuſal.</p>
+            <p>Nor doth, or ever, I ſuppoſe will the upper Houſe obſtruct the Paſſage of any Bill, which may innocently tend to the ſetle<g ref="char:EOLhyphen"/>ment or enlargement of our Liberties. But remembring by whoſe Writ they were ſummoned, and withall whoſe ſafety they conſult as juſt and wiſe Mediatours, ſtudy to reconcile the ſervice of the King with the good of the People, on both of which their owne wellbeing ſeems equally to depend, for that they are ſubjects, as well as, Peers. This doubt<g ref="char:EOLhyphen"/>leſſe is the happy temperament, which will with Gods bleſſing
+<pb n="5" facs="tcp:167150:4"/>intercept diſcord, and prolong our Peace; their Lordſhips, ſerving as a Rampart to the Nation againſt Arbitrary Power, as a skreene to his Majeſty againſt popular encroachments: Wherein the Hiſtory of former Errours hath furniſhed them with ſuch future cautions, as they cannot, methinks again miſ<g ref="char:EOLhyphen"/>carry without ſupine default: However we are already (by the reſtitution of Monarchy, and Peerage,) abundantly ſecured from thoſe Precipitated Counſells, and abortive Votes, which rendred all our policy fantaſtick, whilſt, being Governed at randome, we were only ſhuffled from one Anarchy to another. And what the wiſdome of many ages had maturely collected, could in one morning, be diſſipated with the breath of Factious and Capricious Juntos, who were indeed, too dextrous in de<g ref="char:EOLhyphen"/>moliſhing, but knew not how to build.</p>
+            <p>The ſettlement of the Militia in the ancient way of Trayned Bands, under Lords, and Deputy Lieutenants, men of Intereſt in their Countryes, and without other dependance on his Maje<g ref="char:EOLhyphen"/>ſty than their Allegiance, how doth it proclaim the innocency of the Kings intentions? How doth it vindicate the preſent Au<g ref="char:EOLhyphen"/>thority, as the gentleſt and happieſt in the world, which after ſuch accumulation of indignities committs it ſelf (as it were) to popular Protection, &amp; demands no greater ſecurity, than it affords the meaneſt! How doth the equall diſtribution of his favour, &amp; prudent choyce of his ſervants, conſidering the num<g ref="char:EOLhyphen"/>ber and variety of pretences, and comparing it with the partia<g ref="char:EOLhyphen"/>lity of late uſurpers, at once ſtop the Mouth of Calumny and veſt in his Majeſty, a peculiar Right to be the ſole Judge of Merrit! Thoſe, who profeſſing to tye him up to rigour of Law, grudged him the exerciſe of his Clemency, how are they en<g ref="char:EOLhyphen"/>ſnared and confounded in their pretences; whilſt, from the ver<g ref="char:EOLhyphen"/>dicts of enraged Juries, and purſuites of deſerved Vengeance, they reſort for ſhelter, to that ſanctuary, which they ſo lately, and ſpitefully prophaned.</p>
+            <p>His Majeſties frugality, (whoſe example promiſes even a re<g ref="char:EOLhyphen"/>formation of our manners, as it hath already confuted their en<g ref="char:EOLhyphen"/>vious preſages, who for want of greater Objections, made uſe
+<pb n="6" facs="tcp:167150:5"/>of a ſcare crow, by ſuggeſting to us (forſooth) the ruinous pomp and expence of a Court; ſo I hope, it may give us occaſion to conſider, how chargeable it is to maintain uſurpers, and facti<g ref="char:EOLhyphen"/>ons, in compariſon of a lawfull Prince; Even as Wives are commonly cheaper than Concubines; Neither would his Maje<g ref="char:EOLhyphen"/>ſty, I preſume, complaine, or require our ayd upon any Ordinary account; But alas, we may not in reaſon look for miracles at his hand, nor in Juſtice, expect that he ſhould pay our debts: For who doth not ſee, That in all publick engagements, (but eſpe<g ref="char:EOLhyphen"/>cially the preſent,) we our ſelves are Principalls, and the King our ſurety; he certainly had no part in contracting them, unleſſe perhaps, the Phanaticks have taught us to make uſe of our own wrong, by charging him with the Occaſion, becauſe indeed, they were contracted to drive and keep him out: Would he have taken advantage of legall forfeitures and late exam<g ref="char:EOLhyphen"/>les, <hi>Haberdashers Hall</hi> and <hi>Drury Houſe</hi> might both have ſatis<g ref="char:EOLhyphen"/>fied the Publick debts, and filled his Coffers; If ſubmitting his intereſts to our wiſhes, he have no retume, his Clemency is not well requited, and it will behoove us to want it no more: However, not the proudeſt Champion of freedome, or fouleſt detractour of Prerogative can deny, That his Majeſty hath been truly tender of our concernments, modeſt in his demands; And his beginnings will at leaſt appear very favourable to our Purſe-ſtrings, when we remember, how they were lately worne out with handling.</p>
+            <p>The Great Charter, and Petition of Right, which were even buried in their own duſt, (being ſupplanted by inſtruments, and Projects of Goverment, framed to the paſſion or humour of Intruders,) are now revived and celebrated as a kinde of civill Decalogue for his Majeſties practiſe. Liberty and Freehold, then which nothing hath been rendred cheaper are already ſo ſacred; That in ſtead of detaining, or ſeiſing our perſons upon bare and generall ſurmiſes, the m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt obnoxious are permitted to finde baile; or if the fact be not too notorious, upon examina<g ref="char:EOLhyphen"/>tion, without further ſute diſcharged; And in liew of prejudi<g ref="char:EOLhyphen"/>cate Committees, we have impartial Juries to decide our pro<g ref="char:EOLhyphen"/>perty:
+<pb n="6" facs="tcp:167150:5"/>We have done, I hope, will that reaſon of ſtate, which was wont to fill all our priſons, without an impeachment, and profeſſed the puniſhing of men for their ſuppoſed principles, without any thing prooved or alledged againſt them. Our Laws which like porters or mean Solicitours, were employed and ſent on Errands, by every faction, are now grown ſtately, and will not ſtep aſide, for any mans buſineſſe, but their own; nor is any for preſumed Guilt, ſo proſcribed, as to forfeit the Intereſt of his Countrey, without contempt recorded, ſince by being offen<g ref="char:EOLhyphen"/>ders, we ceaſe not to be <hi>English</hi> men, And for that the Pub<g ref="char:EOLhyphen"/>lick is more concerned in the lawfullneſs then greatneſſe of pu<g ref="char:EOLhyphen"/>niſhments. We have learned, God be thanked, like freemen and our Fathers Children, again to challenge our Birthrights, and think our ſelves no longer tenants at will of our Eſtates; Nay Juſtice is now the leaſt of our demands, it is fauour and bounty which we pretend to.</p>
+            <p>The Legiſlative and Miniſteriall power are, I ſuppoſe, ſuffi<g ref="char:EOLhyphen"/>ciently ſevered, or if they be not, his Majeſty I am ſure is not in fault, who referring all things to the determination of the Law, without aſſuming any cogniſance of private Intereſts, contents himſelf religiouſly to provide, That our Courts of Juſtice be filled with Perſons of the greateſt honour and ability, and nothing decided by unſworne Jvdges; Nor doth he inter<g ref="char:EOLhyphen"/>rupt any legall, or countenance any Illegall courſe, or to any publick Act, to diſtinguiſh his Government from the exacteſt of Common-Wealths; The Nation (once ſo happily united,) is now Alas diſtributed into ſeverall tribes, with names and marks of enmity, and reproach; And though ſuch diſtinctions are too apt to create a Partiallity in the adminiſtration of Juſtice, (as, to our ſorrow, we have lately felt,) yet ſince our princes re<g ref="char:EOLhyphen"/>turn, none, I am confident, will affirme, that his judgment or pri<g ref="char:EOLhyphen"/>vate Character hath prejudiced his right, which his Majeſty holds himſelf oblidged, indifferently to extend to all, even as the wiſdome of God communicates his daily providences, and Bounties: hitherto tend thoſe pious, and candid purpoſes and endeavours to aboliſh (if poſſible) even the mention of
+<pb n="7" facs="tcp:167150:6"/>late miſcariages, ſo frequently declared ſo ſolemnly recom<g ref="char:EOLhyphen"/>mended to us; A fingular <hi>Omen</hi> of our future ſatisfaction, For, what ſoundneſſe of health may wee hereafter expect, who are already in ſo good a temper? And why ſhould wee not, with Gods bleſſing upon ſuch hopefull overtures of his Majeſties Goverment. Promiſe our ſelves all the beauties of ſpotleſs Juſtice, All the comforts of flowing equity, All the in<g ref="char:EOLhyphen"/>fluences of a benign Conſtelation?</p>
+            <p>Neither need we doubt but that our prince will readily com<g ref="char:EOLhyphen"/>plie with our requeſts in whatſoever can modeſtly be deſired of him, either to prevent any juſt fear, or ſupply any reall defect being thereunto incited by his goodneſſe, his promiſe, and indeed his Intereſt: ſo as, for ought I ſee, ſuch as are yet diſſatisfied, will finde more trouble, in conſulting the wanton<g ref="char:EOLhyphen"/>neſſe of their Appetites, then obtaining what they fancy; where<g ref="char:EOLhyphen"/>in, no difficulty can ariſe, but this, That his Majeſty may per<g ref="char:EOLhyphen"/>haps, think it more fit and juſt, to gratify the ſobriety of the Major part, in maintaining, then the Curioſity of a few, in al<g ref="char:EOLhyphen"/>tering our ancient, and approved eſtabliſhments; And thus, I fear, he will have frequent occaſion to advise; being im<g ref="char:EOLhyphen"/>portuned by factious, and unreaſonable addreſſes.</p>
+            <p>It appears my Lord, I hope to your excellency, How notably you have merrited of your Countrey, by one loyall and memo<g ref="char:EOLunhyphen"/>rable expedition which with ſucceſſe, equall to its deſert, hath at once tranſlated us from <hi>Egypt</hi> to <hi>Canaan,</hi> without any Wilderneſſe in our way; hath redreſſed all our complaints, &amp; anſwered all our temporall expectations; wherein as men in<g ref="char:EOLhyphen"/>deed we are fully ſatisfied, but as Chriſtians there yet remaines ſomthing ſo conſiderable to us, that neither our bleſſing nor your Triumph is compleat without it: See my Lord, how Chriſts Vineyard lies yet uncultivated &amp; unfenced, The Church of <hi>England,</hi> I mean, once ſo amiable and glorious, now ſo des<g ref="char:EOLhyphen"/>picable and forlorne, her Alters poluted, her Temples profa<g ref="char:EOLhyphen"/>ned, her truth confounded, her prieſthood vilified, her poſſeſ<g ref="char:EOLhyphen"/>ſion alienated, and her bread given to the doggs: Your Ex<g ref="char:EOLhyphen"/>cellency is ſommoned to aſſiſt in the reparation of this fatall
+<pb n="8" facs="tcp:167150:6"/>breach, in the reſtoration of this goodly fabrick, both piety and charity requires it: The end is Excellent, and the work methinks, not difficult; ſhe hath already the Law for her War<g ref="char:EOLhyphen"/>rant, the King for her advocate the Nation for her Witneſſe, and no adverſary, but devout ſacriledge without any coulor of title but the ſame violence, which excluded Monarchy, peerage, and common right: on your generous Reſolutions, My Lord, it depends with that courage of yours, which ſo lately aſſerted the freedom of our Parliaments, now to ſecure, &amp; if need be, ſo reſcue his Majeſty from there inſolence whoſe requeſts are menaces whoſe very loyalty is ſeditious, and who appealing ſtill to their own Paſſions will neither be tied by the duty, nor tried by there Countrey; In a word who are onely modeſt and juſt when they are weake with whoſe vertues wee are not now to be aquainted.</p>
+            <p>My Lord, If proceeding in your great atchivements, your Excellency ſhall for the future proove an Equall Champion of the Kings Authority, the Peoples liberty, and conſequently, the Churches Rights (for I take it, it is now manifeſted, that they all hold by one title your name will be great in our ſtories, and Pretious in our memories, your Garlands will every year bud with freſh flowers and the love and honour of your Con<g ref="char:EOLhyphen"/>trey will if Poſſible) exceed the Rewards conferred on you by his Majeſty.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>July,</hi> 17. 1660.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
